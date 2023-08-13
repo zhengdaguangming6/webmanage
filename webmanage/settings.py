@@ -104,7 +104,7 @@ WSGI_APPLICATION = 'webmanage.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test_group',
+        'NAME': 'test_manage',
         'USER': 'root',
         'PASSWORD': '123456',
         'HOST': '59.110.30.243',
