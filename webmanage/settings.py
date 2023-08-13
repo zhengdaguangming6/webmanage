@@ -28,6 +28,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "www.whattest.top",
+    "api.whattest.top",
 
 ]
 
